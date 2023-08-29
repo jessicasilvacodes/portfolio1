@@ -6,7 +6,7 @@
 <img src="/readme/about.png">
 <img src="/readme/contato.png">
 
-link: https://portfolio1-virid.vercel.app/index.html
+link: https://portfolio1-phi-six.vercel.app/
 
 ##### Ferramentas utilizadas:
 * HTML
